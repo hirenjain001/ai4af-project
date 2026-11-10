@@ -1,0 +1,195 @@
+{
+  "holdout_styles": 40,
+  "policies": {
+    "baseline": {
+      "accuracy": 0.125,
+      "macro_f1": 0.0741,
+      "accuracy_ci_95": [
+        0.0212,
+        0.2288
+      ],
+      "confusion_matrix": {
+        "chase": {
+          "chase": 2,
+          "cut_reorder": 8,
+          "fix": 3,
+          "hold": 7,
+          "markdown": 8,
+          "retire": 0
+        },
+        "cut_reorder": {
+          "chase": 0,
+          "cut_reorder": 0,
+          "fix": 0,
+          "hold": 1,
+          "markdown": 0,
+          "retire": 0
+        },
+        "fix": {
+          "chase": 0,
+          "cut_reorder": 0,
+          "fix": 0,
+          "hold": 0,
+          "markdown": 0,
+          "retire": 0
+        },
+        "hold": {
+          "chase": 0,
+          "cut_reorder": 2,
+          "fix": 1,
+          "hold": 3,
+          "markdown": 0,
+          "retire": 0
+        },
+        "markdown": {
+          "chase": 0,
+          "cut_reorder": 0,
+          "fix": 0,
+          "hold": 0,
+          "markdown": 0,
+          "retire": 0
+        },
+        "retire": {
+          "chase": 1,
+          "cut_reorder": 0,
+          "fix": 0,
+          "hold": 2,
+          "markdown": 2,
+          "retire": 0
+        }
+      },
+      "fairness_accuracy_gap": {
+        "buzz": 0.1389,
+        "region": 0.0,
+        "size": 0.0275
+      },
+      "markdown_dollars": 98490.0,
+      "full_price_sell_through": 0.9077
+    },
+    "agent_without_rag": {
+      "accuracy": 0.125,
+      "macro_f1": 0.0741,
+      "accuracy_ci_95": [
+        0.0212,
+        0.2288
+      ],
+      "confusion_matrix": {
+        "chase": {
+          "chase": 2,
+          "cut_reorder": 8,
+          "fix": 3,
+          "hold": 7,
+          "markdown": 8,
+          "retire": 0
+        },
+        "cut_reorder": {
+          "chase": 0,
+          "cut_reorder": 0,
+          "fix": 0,
+          "hold": 1,
+          "markdown": 0,
+          "retire": 0
+        },
+        "fix": {
+          "chase": 0,
+          "cut_reorder": 0,
+          "fix": 0,
+          "hold": 0,
+          "markdown": 0,
+          "retire": 0
+        },
+        "hold": {
+          "chase": 0,
+          "cut_reorder": 2,
+          "fix": 1,
+          "hold": 3,
+          "markdown": 0,
+          "retire": 0
+        },
+        "markdown": {
+          "chase": 0,
+          "cut_reorder": 0,
+          "fix": 0,
+          "hold": 0,
+          "markdown": 0,
+          "retire": 0
+        },
+        "retire": {
+          "chase": 1,
+          "cut_reorder": 0,
+          "fix": 0,
+          "hold": 2,
+          "markdown": 2,
+          "retire": 0
+        }
+      },
+      "fairness_accuracy_gap": {
+        "buzz": 0.1389,
+        "region": 0.0,
+        "size": 0.0275
+      },
+      "markdown_dollars": 98490.0,
+      "full_price_sell_through": 0.9077
+    },
+    "agent_with_rag": {
+      "accuracy": 0.15,
+      "macro_f1": 0.0652,
+      "accuracy_ci_95": [
+        0.0379,
+        0.2621
+      ],
+      "confusion_matrix": {
+        "chase": {
+          "chase": 0,
+          "cut_reorder": 0,
+          "hold": 28,
+          "retire": 0
+        },
+        "cut_reorder": {
+          "chase": 0,
+          "cut_reorder": 0,
+          "hold": 1,
+          "retire": 0
+        },
+        "hold": {
+          "chase": 0,
+          "cut_reorder": 0,
+          "hold": 6,
+          "retire": 0
+        },
+        "retire": {
+          "chase": 0,
+          "cut_reorder": 0,
+          "hold": 5,
+          "retire": 0
+        }
+      },
+      "fairness_accuracy_gap": {
+        "buzz": 0.1111,
+        "region": 0.0,
+        "size": 0.0989
+      },
+      "markdown_dollars": 10940.0,
+      "full_price_sell_through": 0.9635
+    }
+  },
+  "grounding_rate": 0.0,
+  "share_style_weeks_auto_handled": 0.0,
+  "consistency_over_three_runs": 1.0,
+  "prompt_injection_tests_passed": 1,
+  "early_warning_lead_time_weeks_proxy": 0.0,
+  "fad_vs_trend_precision_proxy": 0.0,
+  "planner_minutes_manual": 12.0,
+  "planner_minutes_assisted": 4.0,
+  "planner_minutes_saved": 8.0,
+  "cost_per_style_week_usd": 0.002,
+  "action_classes_observed": [
+    "chase",
+    "cut_reorder",
+    "hold",
+    "retire"
+  ],
+  "fairness_note": "Accuracy gaps are descriptive proxy slices on a small hold-out set.",
+  "timing_note": "Planner minutes are configurable benchmark inputs, not a recorded human timing study.",
+  "cost_note": "Cost is an environment-configured estimate; offline mode uses no provider tokens."
+}
