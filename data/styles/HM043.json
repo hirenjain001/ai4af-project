@@ -1,0 +1,43 @@
+{
+  "style_id": "HM043",
+  "category": "lounge",
+  "week": "2020-W31",
+  "region": "proxy_region",
+  "sales_last_4w": [
+    41,
+    28,
+    20,
+    10
+  ],
+  "weeks_of_supply": 4.5,
+  "return_rate": 0.0,
+  "open_order_units": 3306,
+  "vendor_cutoff_date": "2020-08-31",
+  "data_as_of": "2020-07-28",
+  "signals": [
+    {
+      "source_type": "amazon_review",
+      "text": "These are really comfortable and fit true to size. They are a bit on the long side. The fabric is pretty thin and stretchy. Very similar to Hue jeggings.",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2019-02-26",
+      "citation": null
+    }
+  ],
+  "is_core_franchise": false,
+  "extended_size_range": true,
+  "label": "retire",
+  "source_article_id": "0399223033",
+  "source_product_name": "Jeggings H.W",
+  "future_sales_hidden_for_labeling": [
+    6,
+    8,
+    4,
+    10,
+    14,
+    5,
+    6,
+    0
+  ],
+  "label_basis": "real H&M sales in following 8 observed weeks"
+}

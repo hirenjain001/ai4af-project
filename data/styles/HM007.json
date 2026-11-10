@@ -1,0 +1,59 @@
+{
+  "style_id": "HM007",
+  "category": "lounge",
+  "week": "2020-W31",
+  "region": "proxy_region",
+  "sales_last_4w": [
+    13,
+    12,
+    11,
+    14
+  ],
+  "weeks_of_supply": 6.5,
+  "return_rate": 0.0,
+  "open_order_units": 6313,
+  "vendor_cutoff_date": "2020-08-06",
+  "data_as_of": "2020-07-28",
+  "signals": [
+    {
+      "source_type": "amazon_review",
+      "text": "I bought this as part of a blues brothers costume I am putting together for my grandson who is a big fan.  It's a bit long for him, but it's kind of cute that way.",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2014-04-09",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "These jeans look great on my 17 year old daughter. She's 5'7&#34; and weighs about 150 pounds. She usually wears a size 8 in jeans, but the 29/30 fits her fine. Though she could probably go with a slightly longer length. They are a dark rinse color. They are skinny style. She's not crazy about the white label on the back side, but other than that she's really happy with them. They're made well with straight stitches and no loose threads.",
+      "direction": "up",
+      "strength": 0.5,
+      "date": "2018-09-17",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "Comfy and flattering... room to breath. Looks nice with everything and an awesome price.",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2019-01-12",
+      "citation": null
+    }
+  ],
+  "is_core_franchise": false,
+  "extended_size_range": true,
+  "label": "chase",
+  "source_article_id": "0562245001",
+  "source_product_name": "Luna skinny RW",
+  "future_sales_hidden_for_labeling": [
+    7,
+    11,
+    12,
+    21,
+    24,
+    23,
+    10,
+    1
+  ],
+  "label_basis": "real H&M sales in following 8 observed weeks"
+}

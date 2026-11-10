@@ -1,0 +1,29 @@
+{
+  "style_id": "HM065",
+  "signals": [
+    {
+      "source_type": "amazon_review",
+      "text": "Exac What I was looking for",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2017-05-19",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "I like the color and fabric \"feel\".  Washed well.  It is a tighter fit than others I've bought that are the same size.  It is a \"slim\" fit.",
+      "direction": "up",
+      "strength": 0.5,
+      "date": "2020-07-28",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "It's nice having so many places to hold cards. Credit cards fit, but most business cards have to be shoved in and may look a bit mangled. Medicare cards must be put into a larger pocket. American money is a tight fit also. It is nice to have a wallet and multi card holder that is longer and therefore stays fairly slim.",
+      "direction": "up",
+      "strength": 0.0,
+      "date": "2017-08-03",
+      "citation": null
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "style_id": "HM001",
+  "category": "lounge",
+  "week": "2020-W31",
+  "region": "proxy_region",
+  "sales_last_4w": [
+    318,
+    460,
+    504,
+    418
+  ],
+  "weeks_of_supply": 6.6,
+  "return_rate": 0.0,
+  "open_order_units": 3708,
+  "vendor_cutoff_date": "2020-08-22",
+  "data_as_of": "2020-07-28",
+  "signals": [
+    {
+      "source_type": "amazon_review",
+      "text": "I purchased a couple of these to use in our neighborhood yard sale.  Has pockets for a little mini note pad and pens.. ties are long enough to secure a wide size range of people.  The denim is medium color and what I would consider heavy.  I like them.  They'll be able to be used over and over again for years.  I haven't machine washed and dried yet, but it is my impression they will do as well any pair of blue jeans.",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2020-01-23",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "I bought this as part of a blues brothers costume I am putting together for my grandson who is a big fan.  It's a bit long for him, but it's kind of cute that way.",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2014-04-09",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "I love this denim skirt , it's so cute and fits great.",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2017-06-25",
+      "citation": null
+    }
+  ],
+  "is_core_franchise": true,
+  "extended_size_range": true,
+  "label": "chase",
+  "source_article_id": "0706016001",
+  "source_product_name": "Jade HW Skinny Denim TRS",
+  "future_sales_hidden_for_labeling": [
+    248,
+    329,
+    509,
+    728,
+    686,
+    494,
+    339,
+    51
+  ],
+  "label_basis": "real H&M sales in following 8 observed weeks"
+}

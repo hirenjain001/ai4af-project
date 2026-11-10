@@ -1,0 +1,51 @@
+{
+  "style_id": "HM026",
+  "category": "social",
+  "week": "2020-W31",
+  "region": "proxy_region",
+  "sales_last_4w": [
+    15,
+    17,
+    9,
+    46
+  ],
+  "weeks_of_supply": 12.4,
+  "return_rate": 0.0,
+  "open_order_units": 922,
+  "vendor_cutoff_date": "2020-08-27",
+  "data_as_of": "2020-07-28",
+  "signals": [
+    {
+      "source_type": "amazon_review",
+      "text": "This is not not like my other Vera Bradley purses!<br /><br />I ordered the Ivy Green. It\u2019s looks like a dark olive green to me, and<br />The color is ok. I like it, it\u2019s non-described, blends with most anything I would wear.<br />The lining is white with dark green and grayish flowers, nothing special.<br /><br />There is one zipper compartment on the outside front, I personally<br />Would rather have it on the inside, where the few things in there<br />Would not look bulky in the front.<br /><",
+      "direction": "up",
+      "strength": 0.0,
+      "date": "2021-05-17",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "I wore these to work. They were comfortable and have large front pockets.  They also resist wrinkles which is very nice.  I washed them and dried them on permanent press (although label says low).  I removed them from the dryer immediately and they came out looking new without any wrinkles.<br /><br />What I did notice is that there are only 5 belt loops on the pants but only 1 of them is in the back.  I feel it needs two more belt loops in the back so that the pant waist does not ride under the",
+      "direction": "up",
+      "strength": 0.0,
+      "date": "2014-08-27",
+      "citation": null
+    }
+  ],
+  "is_core_franchise": false,
+  "extended_size_range": false,
+  "label": "chase",
+  "source_article_id": "0803757001",
+  "source_product_name": "Bradley trousers",
+  "future_sales_hidden_for_labeling": [
+    189,
+    247,
+    333,
+    504,
+    274,
+    160,
+    155,
+    7
+  ],
+  "label_basis": "real H&M sales in following 8 observed weeks"
+}

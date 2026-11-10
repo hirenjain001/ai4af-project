@@ -1,0 +1,59 @@
+{
+  "style_id": "HM044",
+  "category": "social",
+  "week": "2020-W31",
+  "region": "proxy_region",
+  "sales_last_4w": [
+    31,
+    50,
+    44,
+    28
+  ],
+  "weeks_of_supply": 12.2,
+  "return_rate": 0.0,
+  "open_order_units": 5202,
+  "vendor_cutoff_date": "2020-08-18",
+  "data_as_of": "2020-07-28",
+  "signals": [
+    {
+      "source_type": "amazon_review",
+      "text": "These are my new go to leggings. I have just ordered 2 more pairs! They are SOOO SOFT and comfortable and such cute patterns.. I will be wearing my holiday leggings ALL YEAR LONG",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2020-11-18",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "I've never given a 5 star review before so get these pants. I'm 5 10 about 160lbs and got a tall large. They are amazing. So comfy",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2020-04-25",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "I purchased the red plaid and black/white snow flakes... my adult daughter (who lives in Arizona) chose the red plaid and the turquoise reindeer colors.  They are a thinner tshirt material.  Very comfortable.  Very holiday!  I purchased some tunic-like tops to wear with mine - we are both choosing to wear them inside for lounging and not \"out.\"  They'd be great pajamas because they are so soft and comfy.  I would also say that the sizing was spot on.  So get your waist measurements and use their",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2020-11-18",
+      "citation": null
+    }
+  ],
+  "is_core_franchise": false,
+  "extended_size_range": false,
+  "label": "chase",
+  "source_article_id": "0796210001",
+  "source_product_name": "Enter HW leggings",
+  "future_sales_hidden_for_labeling": [
+    24,
+    32,
+    54,
+    130,
+    149,
+    201,
+    125,
+    16
+  ],
+  "label_basis": "real H&M sales in following 8 observed weeks"
+}

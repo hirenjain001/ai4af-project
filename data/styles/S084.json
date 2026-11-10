@@ -1,0 +1,41 @@
+{
+  "style_id": "S084",
+  "category": "social",
+  "week": "2026-W12",
+  "region": "smaller_market",
+  "sales_last_4w": [
+    376,
+    358,
+    356,
+    324
+  ],
+  "weeks_of_supply": 10.2,
+  "return_rate": 0.06,
+  "open_order_units": 3505,
+  "vendor_cutoff_date": "2026-08-01",
+  "data_as_of": "2026-06-29",
+  "signals": [
+    {
+      "source_type": "review",
+      "text": "Comfortable fabric and reliable fit.",
+      "direction": "up",
+      "strength": 0.85,
+      "date": "2026-06-26",
+      "citation": null
+    }
+  ],
+  "is_core_franchise": false,
+  "extended_size_range": false,
+  "label": "move",
+  "future_sales_hidden_for_labeling": [
+    347,
+    320,
+    318,
+    308,
+    342,
+    347,
+    312,
+    340
+  ],
+  "archetype": "transfer_opportunity"
+}

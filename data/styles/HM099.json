@@ -1,0 +1,59 @@
+{
+  "style_id": "HM099",
+  "category": "lounge",
+  "week": "2020-W31",
+  "region": "proxy_region",
+  "sales_last_4w": [
+    0,
+    1,
+    0,
+    0
+  ],
+  "weeks_of_supply": 4.9,
+  "return_rate": 0.0,
+  "open_order_units": 5751,
+  "vendor_cutoff_date": "2020-08-26",
+  "data_as_of": "2020-07-28",
+  "signals": [
+    {
+      "source_type": "amazon_review",
+      "text": "I love this dress and can\u2019t wait to wear it.",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2020-01-24",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "This is so nice...its sweater material which is casual but the cut dresses up an outfit.",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2022-12-24",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "I love this ! It's so shiny and cute I like it cause it's my style classy but pretty it's perfect to wear with a cute dress or dress up .",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2021-06-29",
+      "citation": null
+    }
+  ],
+  "is_core_franchise": false,
+  "extended_size_range": false,
+  "label": "chase",
+  "source_article_id": "0739144007",
+  "source_product_name": "Kelso HW fancy",
+  "future_sales_hidden_for_labeling": [
+    0,
+    3,
+    1,
+    0,
+    0,
+    1,
+    0,
+    0
+  ],
+  "label_basis": "real H&M sales in following 8 observed weeks"
+}

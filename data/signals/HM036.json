@@ -1,0 +1,29 @@
+{
+  "style_id": "HM036",
+  "signals": [
+    {
+      "source_type": "amazon_review",
+      "text": "I wear 3XL. . .  good fit, comfortable, but for the sweatshirt, I could have also wear a 4XL. . . . just a little more room, but I like a little bigger . . . .",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2019-12-25",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "Bought these for my 3 and 6 year grandsons to wear in a neighborhood christmas parade.  They were perfect.  And the boys were perfectly warm too!  Win/Win.  Washed up nicely.  Paired with some cute elf hats and the look was complete.  Since they are 3 and 6 gramma got away with it... but I think next year the 6 year old will probably not &#34;agree&#34; to be so cute.  Hahaha",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2018-01-17",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "Very soft light sweatshirt great for cool Summer nights",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2020-07-04",
+      "citation": null
+    }
+  ]
+}

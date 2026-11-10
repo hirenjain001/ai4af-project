@@ -1,0 +1,59 @@
+{
+  "style_id": "HM071",
+  "category": "lounge",
+  "week": "2020-W31",
+  "region": "proxy_region",
+  "sales_last_4w": [
+    19,
+    15,
+    8,
+    2
+  ],
+  "weeks_of_supply": 12.1,
+  "return_rate": 0.667,
+  "open_order_units": 4899,
+  "vendor_cutoff_date": "2020-07-31",
+  "data_as_of": "2020-07-28",
+  "signals": [
+    {
+      "source_type": "amazon_review",
+      "text": "Top was way too big to match size of bottoms. The shirts were fine. Extremely large armholes. Large bottoms fit fine.  Typically I wear a large top and bottom. I returned.",
+      "direction": "down",
+      "strength": 1.0,
+      "date": "2021-12-31",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "Go with everything.",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2020-02-08",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "I purchased a 2x, looks great on the model in the advertisement but it looked awful on me.  The fabric and design (blank and white) is pretty.  I donated it so someone else could look good in it.",
+      "direction": "down",
+      "strength": 0.5,
+      "date": "2021-06-19",
+      "citation": null
+    }
+  ],
+  "is_core_franchise": false,
+  "extended_size_range": false,
+  "label": "chase",
+  "source_article_id": "0123173001",
+  "source_product_name": "Control Top 50 den 1p Tights",
+  "future_sales_hidden_for_labeling": [
+    3,
+    1,
+    4,
+    77,
+    80,
+    76,
+    72,
+    24
+  ],
+  "label_basis": "real H&M sales in following 8 observed weeks"
+}

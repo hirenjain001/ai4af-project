@@ -1,0 +1,13 @@
+{
+  "style_id": "HM043",
+  "signals": [
+    {
+      "source_type": "amazon_review",
+      "text": "These are really comfortable and fit true to size. They are a bit on the long side. The fabric is pretty thin and stretchy. Very similar to Hue jeggings.",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2019-02-26",
+      "citation": null
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "style_id": "HM027",
+  "category": "lounge",
+  "week": "2020-W31",
+  "region": "proxy_region",
+  "sales_last_4w": [
+    41,
+    40,
+    74,
+    65
+  ],
+  "weeks_of_supply": 10.5,
+  "return_rate": 0.0,
+  "open_order_units": 6152,
+  "vendor_cutoff_date": "2020-08-26",
+  "data_as_of": "2020-07-28",
+  "signals": [
+    {
+      "source_type": "amazon_review",
+      "text": "Exac What I was looking for",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2017-05-19",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "I like the color and fabric \"feel\".  Washed well.  It is a tighter fit than others I've bought that are the same size.  It is a \"slim\" fit.",
+      "direction": "up",
+      "strength": 0.5,
+      "date": "2020-07-28",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "It's nice having so many places to hold cards. Credit cards fit, but most business cards have to be shoved in and may look a bit mangled. Medicare cards must be put into a larger pocket. American money is a tight fit also. It is nice to have a wallet and multi card holder that is longer and therefore stays fairly slim.",
+      "direction": "up",
+      "strength": 0.0,
+      "date": "2017-08-03",
+      "citation": null
+    }
+  ],
+  "is_core_franchise": false,
+  "extended_size_range": false,
+  "label": "chase",
+  "source_article_id": "0568597006",
+  "source_product_name": "Hayes slim trouser",
+  "future_sales_hidden_for_labeling": [
+    55,
+    73,
+    81,
+    130,
+    173,
+    127,
+    107,
+    9
+  ],
+  "label_basis": "real H&M sales in following 8 observed weeks"
+}

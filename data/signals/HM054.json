@@ -1,0 +1,29 @@
+{
+  "style_id": "HM054",
+  "signals": [
+    {
+      "source_type": "amazon_review",
+      "text": "I purchased a couple of these to use in our neighborhood yard sale.  Has pockets for a little mini note pad and pens.. ties are long enough to secure a wide size range of people.  The denim is medium color and what I would consider heavy.  I like them.  They'll be able to be used over and over again for years.  I haven't machine washed and dried yet, but it is my impression they will do as well any pair of blue jeans.",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2020-01-23",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "I bought this as part of a blues brothers costume I am putting together for my grandson who is a big fan.  It's a bit long for him, but it's kind of cute that way.",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2014-04-09",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "I love this denim skirt , it's so cute and fits great.",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2017-06-25",
+      "citation": null
+    }
+  ]
+}

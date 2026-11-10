@@ -1,0 +1,49 @@
+{
+  "style_id": "S052",
+  "category": "social",
+  "week": "2026-W12",
+  "region": "smaller_market",
+  "sales_last_4w": [
+    460,
+    437,
+    412,
+    445
+  ],
+  "weeks_of_supply": 10.3,
+  "return_rate": 0.08,
+  "open_order_units": 2010,
+  "vendor_cutoff_date": "2026-07-25",
+  "data_as_of": "2026-06-29",
+  "signals": [
+    {
+      "source_type": "review",
+      "text": "Comfortable fabric and reliable fit.",
+      "direction": "up",
+      "strength": 0.94,
+      "date": "2026-06-26",
+      "citation": null
+    },
+    {
+      "source_type": "social",
+      "text": "Single-creator spike in short-form video mentions.",
+      "direction": "up",
+      "strength": 0.92,
+      "date": "2026-06-28",
+      "citation": null
+    }
+  ],
+  "is_core_franchise": false,
+  "extended_size_range": true,
+  "label": "hold",
+  "future_sales_hidden_for_labeling": [
+    472,
+    436,
+    443,
+    433,
+    434,
+    435,
+    444,
+    482
+  ],
+  "archetype": "single_source_fad"
+}

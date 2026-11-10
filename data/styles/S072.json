@@ -1,0 +1,41 @@
+{
+  "style_id": "S072",
+  "category": "social",
+  "week": "2026-W12",
+  "region": "smaller_market",
+  "sales_last_4w": [
+    281,
+    314,
+    308,
+    292
+  ],
+  "weeks_of_supply": 10.9,
+  "return_rate": 0.22,
+  "open_order_units": 4774,
+  "vendor_cutoff_date": "2026-07-05",
+  "data_as_of": "2026-06-29",
+  "signals": [
+    {
+      "source_type": "review",
+      "text": "Seam rubs after one wash.",
+      "direction": "down",
+      "strength": 0.78,
+      "date": "2026-06-26",
+      "citation": null
+    }
+  ],
+  "is_core_franchise": false,
+  "extended_size_range": false,
+  "label": "fix",
+  "future_sales_hidden_for_labeling": [
+    243,
+    253,
+    248,
+    239,
+    237,
+    238,
+    270,
+    260
+  ],
+  "archetype": "quality_issue"
+}

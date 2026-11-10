@@ -1,0 +1,59 @@
+{
+  "style_id": "HM067",
+  "category": "lounge",
+  "week": "2020-W31",
+  "region": "proxy_region",
+  "sales_last_4w": [
+    8,
+    9,
+    9,
+    10
+  ],
+  "weeks_of_supply": 6.3,
+  "return_rate": 0.0,
+  "open_order_units": 6735,
+  "vendor_cutoff_date": "2020-08-29",
+  "data_as_of": "2020-07-28",
+  "signals": [
+    {
+      "source_type": "amazon_review",
+      "text": "So comfy! I made the mistake of trying these on before trying the Lindsey style on - which ruined it for me because the waistband makes these SO Comfortable! Especially since I'm a curvy girl. I bought both styles and while I do love the extra style, details and pockets on the Lindsey I'm returning those and buying another of these Morgan because for me comfort rules the world. That said these are also very flattering! Well made as well. I'd recommend especially if you have a curvy figure!",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2017-04-09",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "i think this has helped me with sun exposure issues.  i have super fair skin and used to get weird sun rashes but these have helped me.  they also look reasonable instead of super akward.  something for fellow fair skinned people- i started taking iodoral and it has helped my skin respond to sun better.  you can find iodoral/ iodine supplement on Amazon",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2016-03-01",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "I ordered 2 of these for my boys for Christmas gifts. They were great quality & super soft! LOVE the corduroy accents on the cuffs & collars.  They are going to love them! The look really warm too!",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2020-12-12",
+      "citation": null
+    }
+  ],
+  "is_core_franchise": false,
+  "extended_size_range": true,
+  "label": "chase",
+  "source_article_id": "0399087010",
+  "source_product_name": "Super Skinny L.W Epic",
+  "future_sales_hidden_for_labeling": [
+    4,
+    6,
+    7,
+    15,
+    18,
+    7,
+    2,
+    0
+  ],
+  "label_basis": "real H&M sales in following 8 observed weeks"
+}

@@ -1,0 +1,29 @@
+{
+  "style_id": "HM018",
+  "signals": [
+    {
+      "source_type": "amazon_review",
+      "text": "Really cute infinity ankle rope bracelet. Well made and fits well on my ankle. Looks great whether I am wearing a pair of jeans or shorts and is perfect for all types of casual wear. Highly recommend as an addition to your wardrobe.",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2021-02-09",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "These are going to work great for my 11 year old grandson. He wears a big boys size 5 shoe.  I purchased the medium for my 8 year old who wears a big boys size 2 shoe.  The 9/11's would have been huge on him - the 7/8 1/2's should be perfect.  Washed and dried nicely.",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2022-06-08",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "I wanted a loose fit sock and these have a 1\" band on the top that are too snug.  I will donate these.  If you're looking for a looser fit, pass on these.",
+      "direction": "up",
+      "strength": 0.0,
+      "date": "2021-09-14",
+      "citation": null
+    }
+  ]
+}

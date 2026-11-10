@@ -1,0 +1,43 @@
+{
+  "style_id": "HM085",
+  "category": "lounge",
+  "week": "2020-W31",
+  "region": "proxy_region",
+  "sales_last_4w": [
+    56,
+    70,
+    63,
+    59
+  ],
+  "weeks_of_supply": 11.9,
+  "return_rate": 0.0,
+  "open_order_units": 5151,
+  "vendor_cutoff_date": "2020-08-24",
+  "data_as_of": "2020-07-28",
+  "signals": [
+    {
+      "source_type": "hm_sales",
+      "text": "Observed H&M transaction history used as demand evidence.",
+      "direction": "unknown",
+      "strength": 0.5,
+      "date": "2020-07-28",
+      "citation": null
+    }
+  ],
+  "is_core_franchise": true,
+  "extended_size_range": true,
+  "label": "chase",
+  "source_article_id": "0740519002",
+  "source_product_name": "SORRENTO RW trs",
+  "future_sales_hidden_for_labeling": [
+    35,
+    32,
+    41,
+    79,
+    151,
+    132,
+    130,
+    20
+  ],
+  "label_basis": "real H&M sales in following 8 observed weeks"
+}

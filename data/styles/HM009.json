@@ -1,0 +1,59 @@
+{
+  "style_id": "HM009",
+  "category": "lounge",
+  "week": "2020-W31",
+  "region": "proxy_region",
+  "sales_last_4w": [
+    180,
+    125,
+    237,
+    173
+  ],
+  "weeks_of_supply": 6.4,
+  "return_rate": 0.0,
+  "open_order_units": 1722,
+  "vendor_cutoff_date": "2020-08-20",
+  "data_as_of": "2020-07-28",
+  "signals": [
+    {
+      "source_type": "amazon_review",
+      "text": "I like the color and fabric \"feel\".  Washed well.  It is a tighter fit than others I've bought that are the same size.  It is a \"slim\" fit.",
+      "direction": "up",
+      "strength": 0.5,
+      "date": "2020-07-28",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "I purchased a couple of these to use in our neighborhood yard sale.  Has pockets for a little mini note pad and pens.. ties are long enough to secure a wide size range of people.  The denim is medium color and what I would consider heavy.  I like them.  They'll be able to be used over and over again for years.  I haven't machine washed and dried yet, but it is my impression they will do as well any pair of blue jeans.",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2020-01-23",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "These are my mothers FAV panties.  They are very hard to find elsewehere. I will say that Mom is not that big and we ordered the size she always prefers.  She doesn't like tight panties.  These are loose.  They wash and dry well and last a very long time.",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2013-09-27",
+      "citation": null
+    }
+  ],
+  "is_core_franchise": true,
+  "extended_size_range": false,
+  "label": "chase",
+  "source_article_id": "0448509014",
+  "source_product_name": "Perrie Slim Mom Denim TRS",
+  "future_sales_hidden_for_labeling": [
+    228,
+    329,
+    348,
+    348,
+    453,
+    666,
+    444,
+    96
+  ],
+  "label_basis": "real H&M sales in following 8 observed weeks"
+}

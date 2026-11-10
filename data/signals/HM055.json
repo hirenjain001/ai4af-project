@@ -1,0 +1,29 @@
+{
+  "style_id": "HM055",
+  "signals": [
+    {
+      "source_type": "amazon_review",
+      "text": "Finally. Socks that fit my dad's extremely swollen feet from a medical issue. He can now have comfortable socks to lounge in. Well worth the price since we literally can't find this size anywhere else. Thank you!!!",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2023-02-17",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "This mask is VERY LARGE! I bought this for my son, and it was too big. It was almost to big for my boyfriend. Not a good fit for a child.",
+      "direction": "down",
+      "strength": 0.5,
+      "date": "2015-04-06",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "Classy blouse at a low price!",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2021-08-05",
+      "citation": null
+    }
+  ]
+}

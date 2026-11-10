@@ -1,0 +1,13 @@
+{
+  "style_id": "HM038",
+  "signals": [
+    {
+      "source_type": "amazon_review",
+      "text": "Do like These pants from johnnny,  did wish they came in shorter length.  about  3\" to long",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2019-11-18",
+      "citation": null
+    }
+  ]
+}

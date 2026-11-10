@@ -1,0 +1,59 @@
+{
+  "style_id": "HM035",
+  "category": "lounge",
+  "week": "2020-W31",
+  "region": "proxy_region",
+  "sales_last_4w": [
+    67,
+    80,
+    101,
+    74
+  ],
+  "weeks_of_supply": 13.7,
+  "return_rate": 0.0,
+  "open_order_units": 2169,
+  "vendor_cutoff_date": "2020-08-02",
+  "data_as_of": "2020-07-28",
+  "signals": [
+    {
+      "source_type": "amazon_review",
+      "text": "Do like These pants from johnnny,  did wish they came in shorter length.  about  3\" to long",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2019-11-18",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "I like the fit of these joggers. The material isn't as light weight as other UA joggers I've had. Says 80% cotton 20% Polyester. Nice black color that hasn't worn out after a few washes. I have some black joggers that stat to fade after on wash. Pockets are nice size. Overall a great pair of joggers.",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2019-02-19",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "This is a stunning necklace, especially against a dainty bare neck or a black turtleneck. The chain is very thin and easily knots if one is not careful. It is also 18\" long with the clasp. I love the heart / tiara design.<br /><br />Unfortunately, this gets lost on my neck. Because it is so dainty, this necklace is more suitable for a young slender female. It is perfect as a gift for a girlfriend and comes in a highly presentable box.<br /><br />Besides the price not being posted for this (I sus",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2019-08-03",
+      "citation": null
+    }
+  ],
+  "is_core_franchise": false,
+  "extended_size_range": false,
+  "label": "chase",
+  "source_article_id": "0753737001",
+  "source_product_name": "Twenty HW tapered",
+  "future_sales_hidden_for_labeling": [
+    60,
+    68,
+    66,
+    70,
+    103,
+    55,
+    35,
+    5
+  ],
+  "label_basis": "real H&M sales in following 8 observed weeks"
+}

@@ -1,0 +1,29 @@
+{
+  "style_id": "HM099",
+  "signals": [
+    {
+      "source_type": "amazon_review",
+      "text": "I love this dress and can\u2019t wait to wear it.",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2020-01-24",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "This is so nice...its sweater material which is casual but the cut dresses up an outfit.",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2022-12-24",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "I love this ! It's so shiny and cute I like it cause it's my style classy but pretty it's perfect to wear with a cute dress or dress up .",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2021-06-29",
+      "citation": null
+    }
+  ]
+}

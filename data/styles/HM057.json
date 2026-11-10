@@ -1,0 +1,43 @@
+{
+  "style_id": "HM057",
+  "category": "lounge",
+  "week": "2020-W31",
+  "region": "proxy_region",
+  "sales_last_4w": [
+    23,
+    17,
+    31,
+    28
+  ],
+  "weeks_of_supply": 8.7,
+  "return_rate": 0.0,
+  "open_order_units": 815,
+  "vendor_cutoff_date": "2020-08-06",
+  "data_as_of": "2020-07-28",
+  "signals": [
+    {
+      "source_type": "hm_sales",
+      "text": "Observed H&M transaction history used as demand evidence.",
+      "direction": "unknown",
+      "strength": 0.5,
+      "date": "2020-07-28",
+      "citation": null
+    }
+  ],
+  "is_core_franchise": true,
+  "extended_size_range": false,
+  "label": "chase",
+  "source_article_id": "0752814003",
+  "source_product_name": "Milk RW slack",
+  "future_sales_hidden_for_labeling": [
+    23,
+    37,
+    48,
+    89,
+    67,
+    86,
+    85,
+    9
+  ],
+  "label_basis": "real H&M sales in following 8 observed weeks"
+}

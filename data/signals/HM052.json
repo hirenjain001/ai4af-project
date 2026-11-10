@@ -1,0 +1,29 @@
+{
+  "style_id": "HM052",
+  "signals": [
+    {
+      "source_type": "amazon_review",
+      "text": "Had to send back. too small",
+      "direction": "down",
+      "strength": 0.5,
+      "date": "2022-01-21",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "Just wanted some new work shirts. It's a nice top. Longer in length which I like.",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2022-01-21",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "Made of a nice material.  It isn\u2019t too heavy, but it isn\u2019t cheap and thin.  Soft and very comfortable.  Doesn\u2019t wrinkle easily, which is nice.<br /><br />The neck opening is a little large (wide).  The shirt is a bit on the larger side.  I chose an XL and think a smaller size would have worked.  I am 5\u20194\u201d and weigh about 171 lbs.  I am a 38 DDD.",
+      "direction": "up",
+      "strength": 0.0,
+      "date": "2023-01-16",
+      "citation": null
+    }
+  ]
+}

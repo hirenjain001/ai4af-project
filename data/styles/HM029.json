@@ -1,0 +1,59 @@
+{
+  "style_id": "HM029",
+  "category": "lounge",
+  "week": "2020-W31",
+  "region": "proxy_region",
+  "sales_last_4w": [
+    0,
+    1,
+    0,
+    0
+  ],
+  "weeks_of_supply": 12.5,
+  "return_rate": 0.0,
+  "open_order_units": 1883,
+  "vendor_cutoff_date": "2020-08-18",
+  "data_as_of": "2020-07-28",
+  "signals": [
+    {
+      "source_type": "amazon_review",
+      "text": "I purchased a couple of these to use in our neighborhood yard sale.  Has pockets for a little mini note pad and pens.. ties are long enough to secure a wide size range of people.  The denim is medium color and what I would consider heavy.  I like them.  They'll be able to be used over and over again for years.  I haven't machine washed and dried yet, but it is my impression they will do as well any pair of blue jeans.",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2020-01-23",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "I love this denim skirt , it's so cute and fits great.",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2017-06-25",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "I ordered this modern looking denim shirt for my 21 year old daughter. I wasn't sure if she would like it, but she does. She is a fan of cropped tops already, so this was a fun way to incorporate denim tops into her life. The sizing fits as expected. She's gotten several compliments from it.",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2022-06-18",
+      "citation": null
+    }
+  ],
+  "is_core_franchise": true,
+  "extended_size_range": false,
+  "label": "retire",
+  "source_article_id": "0539723005",
+  "source_product_name": "Jade Denim TRS",
+  "future_sales_hidden_for_labeling": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "label_basis": "real H&M sales in following 8 observed weeks"
+}

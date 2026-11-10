@@ -1,0 +1,59 @@
+{
+  "style_id": "HM023",
+  "category": "lounge",
+  "week": "2020-W31",
+  "region": "proxy_region",
+  "sales_last_4w": [
+    54,
+    122,
+    39,
+    60
+  ],
+  "weeks_of_supply": 9.2,
+  "return_rate": 0.0,
+  "open_order_units": 2829,
+  "vendor_cutoff_date": "2020-08-16",
+  "data_as_of": "2020-07-28",
+  "signals": [
+    {
+      "source_type": "amazon_review",
+      "text": "I ordered it a little big: I wear multiple clothes under: gives me the room I needed: good jacket: keeps you warm when you're out: nice price",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2021-06-08",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "liked the green color: liked the pockets: goes with many shirts/pants I wear: the removable hood is a nice option: light/heavy enough to wear through cool to colder days. . . .",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2021-01-05",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "Best of the sweat shirts:/jackets.",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2015-05-08",
+      "citation": null
+    }
+  ],
+  "is_core_franchise": false,
+  "extended_size_range": false,
+  "label": "chase",
+  "source_article_id": "0685814001",
+  "source_product_name": "RICHIE HOOD",
+  "future_sales_hidden_for_labeling": [
+    62,
+    52,
+    180,
+    314,
+    315,
+    320,
+    225,
+    34
+  ],
+  "label_basis": "real H&M sales in following 8 observed weeks"
+}

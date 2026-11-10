@@ -1,0 +1,29 @@
+{
+  "style_id": "HM094",
+  "signals": [
+    {
+      "source_type": "amazon_review",
+      "text": "I ordered these slacks for my husband mostly because of the light weight and the tapered fit.  He tends to wear his slacks very loose, I think out of habit more than anything else.  These slacks fit very well and look great.  The light weight is perfect for summer as well as spring and early fall.  They wash well and do not wrinkle much at all, though I do iron them after every wash.  Highly recommended.",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2017-08-23",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "Great fit a look. The material has the perfect amount of flexibility. They have a very nice polished look. I use primary as work pants. Overall I\u2019m very pleased with these.",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2019-02-17",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "I really like the look of these pants. The fit is a tad small but not by much. The materiel is a light weight can comfortable. Pockets are all place very well. color looks good without being too bold or too washed out. Over all a great looking pair of slack I would easily recommend.",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2019-02-15",
+      "citation": null
+    }
+  ]
+}

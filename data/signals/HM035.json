@@ -1,0 +1,29 @@
+{
+  "style_id": "HM035",
+  "signals": [
+    {
+      "source_type": "amazon_review",
+      "text": "Do like These pants from johnnny,  did wish they came in shorter length.  about  3\" to long",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2019-11-18",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "I like the fit of these joggers. The material isn't as light weight as other UA joggers I've had. Says 80% cotton 20% Polyester. Nice black color that hasn't worn out after a few washes. I have some black joggers that stat to fade after on wash. Pockets are nice size. Overall a great pair of joggers.",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2019-02-19",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "This is a stunning necklace, especially against a dainty bare neck or a black turtleneck. The chain is very thin and easily knots if one is not careful. It is also 18\" long with the clasp. I love the heart / tiara design.<br /><br />Unfortunately, this gets lost on my neck. Because it is so dainty, this necklace is more suitable for a young slender female. It is perfect as a gift for a girlfriend and comes in a highly presentable box.<br /><br />Besides the price not being posted for this (I sus",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2019-08-03",
+      "citation": null
+    }
+  ]
+}

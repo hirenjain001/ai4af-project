@@ -1,0 +1,13 @@
+{
+  "style_id": "HM057",
+  "signals": [
+    {
+      "source_type": "hm_sales",
+      "text": "Observed H&M transaction history used as demand evidence.",
+      "direction": "unknown",
+      "strength": 0.5,
+      "date": "2020-07-28",
+      "citation": null
+    }
+  ]
+}

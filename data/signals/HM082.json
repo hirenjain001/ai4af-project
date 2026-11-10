@@ -1,0 +1,29 @@
+{
+  "style_id": "HM082",
+  "signals": [
+    {
+      "source_type": "amazon_review",
+      "text": "Came apart the second time worn. Charm was lost my daughter threw away.",
+      "direction": "down",
+      "strength": 1.0,
+      "date": "2020-03-05",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "Was already in a million peices when my daughter received she threw out waste and horrible craftsmanship. Still finding beads and crap all over the house. Wasn\u2019t cheap other.",
+      "direction": "down",
+      "strength": 1.0,
+      "date": "2020-03-05",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "I purchased a couple of these to use in our neighborhood yard sale.  Has pockets for a little mini note pad and pens.. ties are long enough to secure a wide size range of people.  The denim is medium color and what I would consider heavy.  I like them.  They'll be able to be used over and over again for years.  I haven't machine washed and dried yet, but it is my impression they will do as well any pair of blue jeans.",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2020-01-23",
+      "citation": null
+    }
+  ]
+}

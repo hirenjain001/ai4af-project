@@ -1,0 +1,59 @@
+{
+  "style_id": "HM052",
+  "category": "social",
+  "week": "2020-W31",
+  "region": "proxy_region",
+  "sales_last_4w": [
+    14,
+    117,
+    280,
+    113
+  ],
+  "weeks_of_supply": 10.4,
+  "return_rate": 0.333,
+  "open_order_units": 1539,
+  "vendor_cutoff_date": "2020-08-07",
+  "data_as_of": "2020-07-28",
+  "signals": [
+    {
+      "source_type": "amazon_review",
+      "text": "Had to send back. too small",
+      "direction": "down",
+      "strength": 0.5,
+      "date": "2022-01-21",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "Just wanted some new work shirts. It's a nice top. Longer in length which I like.",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2022-01-21",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "Made of a nice material.  It isn\u2019t too heavy, but it isn\u2019t cheap and thin.  Soft and very comfortable.  Doesn\u2019t wrinkle easily, which is nice.<br /><br />The neck opening is a little large (wide).  The shirt is a bit on the larger side.  I chose an XL and think a smaller size would have worked.  I am 5\u20194\u201d and weigh about 171 lbs.  I am a 38 DDD.",
+      "direction": "up",
+      "strength": 0.0,
+      "date": "2023-01-16",
+      "citation": null
+    }
+  ],
+  "is_core_franchise": false,
+  "extended_size_range": true,
+  "label": "chase",
+  "source_article_id": "0547780001",
+  "source_product_name": "Basic sweatpants",
+  "future_sales_hidden_for_labeling": [
+    111,
+    74,
+    61,
+    243,
+    49,
+    53,
+    109,
+    18
+  ],
+  "label_basis": "real H&M sales in following 8 observed weeks"
+}

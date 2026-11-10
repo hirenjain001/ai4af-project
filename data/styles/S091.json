@@ -1,0 +1,41 @@
+{
+  "style_id": "S091",
+  "category": "lounge",
+  "week": "2026-W12",
+  "region": "coastal",
+  "sales_last_4w": [
+    175,
+    175,
+    174,
+    174
+  ],
+  "weeks_of_supply": 3.3,
+  "return_rate": 0.16,
+  "open_order_units": 4289,
+  "vendor_cutoff_date": "2026-07-02",
+  "data_as_of": "2026-06-29",
+  "signals": [
+    {
+      "source_type": "review",
+      "text": "Comfortable fabric and reliable fit.",
+      "direction": "up",
+      "strength": 0.69,
+      "date": "2026-06-26",
+      "citation": null
+    }
+  ],
+  "is_core_franchise": false,
+  "extended_size_range": true,
+  "label": "retire",
+  "future_sales_hidden_for_labeling": [
+    110,
+    102,
+    100,
+    111,
+    114,
+    110,
+    109,
+    108
+  ],
+  "archetype": "retire_candidate"
+}

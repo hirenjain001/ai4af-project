@@ -1,0 +1,29 @@
+{
+  "style_id": "HM076",
+  "signals": [
+    {
+      "source_type": "amazon_review",
+      "text": "Great sweater. Very stylish.",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2020-12-02",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "This was a silly gift for my grandmother, who is generally regarded as the &#34;Queen&#34; of her retirement community. They got the biggest kick out of the crown and sceptre as they added a regal touch",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2018-12-11",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "Ok, sweater.  Not crazy about the overall fit. Little baggy at the bottom, would have preferred it a little longer and better fitted. Material is soft and well made, just not my style in the fit as I prefer a sweater that goes down lower in the back (does not cover butt).",
+      "direction": "up",
+      "strength": 0.5,
+      "date": "2018-11-07",
+      "citation": null
+    }
+  ]
+}

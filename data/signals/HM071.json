@@ -1,0 +1,29 @@
+{
+  "style_id": "HM071",
+  "signals": [
+    {
+      "source_type": "amazon_review",
+      "text": "Top was way too big to match size of bottoms. The shirts were fine. Extremely large armholes. Large bottoms fit fine.  Typically I wear a large top and bottom. I returned.",
+      "direction": "down",
+      "strength": 1.0,
+      "date": "2021-12-31",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "Go with everything.",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2020-02-08",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "I purchased a 2x, looks great on the model in the advertisement but it looked awful on me.  The fabric and design (blank and white) is pretty.  I donated it so someone else could look good in it.",
+      "direction": "down",
+      "strength": 0.5,
+      "date": "2021-06-19",
+      "citation": null
+    }
+  ]
+}

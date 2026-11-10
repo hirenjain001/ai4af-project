@@ -1,0 +1,59 @@
+{
+  "style_id": "HM018",
+  "category": "social",
+  "week": "2020-W31",
+  "region": "proxy_region",
+  "sales_last_4w": [
+    229,
+    209,
+    223,
+    149
+  ],
+  "weeks_of_supply": 7.9,
+  "return_rate": 0.0,
+  "open_order_units": 6488,
+  "vendor_cutoff_date": "2020-08-06",
+  "data_as_of": "2020-07-28",
+  "signals": [
+    {
+      "source_type": "amazon_review",
+      "text": "Really cute infinity ankle rope bracelet. Well made and fits well on my ankle. Looks great whether I am wearing a pair of jeans or shorts and is perfect for all types of casual wear. Highly recommend as an addition to your wardrobe.",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2021-02-09",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "These are going to work great for my 11 year old grandson. He wears a big boys size 5 shoe.  I purchased the medium for my 8 year old who wears a big boys size 2 shoe.  The 9/11's would have been huge on him - the 7/8 1/2's should be perfect.  Washed and dried nicely.",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2022-06-08",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "I wanted a loose fit sock and these have a 1\" band on the top that are too snug.  I will donate these.  If you're looking for a looser fit, pass on these.",
+      "direction": "up",
+      "strength": 0.0,
+      "date": "2021-09-14",
+      "citation": null
+    }
+  ],
+  "is_core_franchise": false,
+  "extended_size_range": false,
+  "label": "chase",
+  "source_article_id": "0636323001",
+  "source_product_name": "Skinny H.W Ankle Queens",
+  "future_sales_hidden_for_labeling": [
+    89,
+    92,
+    129,
+    186,
+    208,
+    151,
+    92,
+    22
+  ],
+  "label_basis": "real H&M sales in following 8 observed weeks"
+}

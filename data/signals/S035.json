@@ -1,0 +1,29 @@
+{
+  "style_id": "S035",
+  "signals": [
+    {
+      "source_type": "review",
+      "text": "Comfortable fabric and reliable fit.",
+      "direction": "up",
+      "strength": 0.93,
+      "date": "2026-06-26",
+      "citation": null
+    },
+    {
+      "source_type": "search",
+      "text": "Search interest is rising across several regions.",
+      "direction": "up",
+      "strength": 0.84,
+      "date": "2026-06-27",
+      "citation": null
+    },
+    {
+      "source_type": "competitor",
+      "text": "Competitor launch confirms category demand.",
+      "direction": "up",
+      "strength": 0.71,
+      "date": "2026-06-25",
+      "citation": null
+    }
+  ]
+}

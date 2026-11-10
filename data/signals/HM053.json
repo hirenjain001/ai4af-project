@@ -1,0 +1,29 @@
+{
+  "style_id": "HM053",
+  "signals": [
+    {
+      "source_type": "amazon_review",
+      "text": "This are very cute flip flops but in my experience ran small, which is the primary reason for star reduction. My son wears an 11 now but was unable to wear these- footbed was too short and they were a bit narrow as well. Not sure if it was just this pair or this style in general. I have not had this issue with other stride rite footwear.",
+      "direction": "up",
+      "strength": 0.0,
+      "date": "2016-06-03",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "Way too small. I ordered 2t for my average sized 18 month old. The shorts were tight around his waist and the shirt was a belly shirt.",
+      "direction": "down",
+      "strength": 1.0,
+      "date": "2021-06-11",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "Fabric is a bit stiff and hard to get over the head and arms in. Ordered A 9-12 month size and it fits my almost 6 month old right now and he is about average height/weight.",
+      "direction": "up",
+      "strength": 0.0,
+      "date": "2020-05-24",
+      "citation": null
+    }
+  ]
+}

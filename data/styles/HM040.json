@@ -1,0 +1,59 @@
+{
+  "style_id": "HM040",
+  "category": "social",
+  "week": "2020-W31",
+  "region": "proxy_region",
+  "sales_last_4w": [
+    26,
+    42,
+    64,
+    15
+  ],
+  "weeks_of_supply": 6.3,
+  "return_rate": 0.0,
+  "open_order_units": 834,
+  "vendor_cutoff_date": "2020-08-10",
+  "data_as_of": "2020-07-28",
+  "signals": [
+    {
+      "source_type": "amazon_review",
+      "text": "Adorable hoodie. My granddaughter is 2 but because of the reviews I sized up to a 3T and it fits perfectly with enough room to be comfortable. She loved it.",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2020-07-28",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "Purchased for my 9 and 11 year grandson.  Sizing seemed ok.  Washed and dried nicely.  You get 2 pieces - jacket and pants. Fleece as stated.  Having said this, I never hesitate to update my reviews should new info seem useful.",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2022-06-14",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "I purchased two of these, one for my 8 year old grandson and one for my 11 year old grandson.  I chose the large and xlarge - both black.  The boys are average/small boys.  I think the jackets will fit perfectly - maybe runs a little small - but that's ok for my boys. The black is dark and full - not gray.  They washed and dried nicely.  zipper is smooth.  I think they will work for this season - they're growing so fast they don' t wear much out so I donate lots.  I never hesitate to update my r",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2022-06-08",
+      "citation": null
+    }
+  ],
+  "is_core_franchise": false,
+  "extended_size_range": true,
+  "label": "chase",
+  "source_article_id": "0715624001",
+  "source_product_name": "Becka hoodie",
+  "future_sales_hidden_for_labeling": [
+    10,
+    68,
+    253,
+    546,
+    150,
+    505,
+    306,
+    47
+  ],
+  "label_basis": "real H&M sales in following 8 observed weeks"
+}

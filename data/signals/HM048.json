@@ -1,0 +1,29 @@
+{
+  "style_id": "HM048",
+  "signals": [
+    {
+      "source_type": "amazon_review",
+      "text": "Love the chain it works great.",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2019-01-25",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "These are nice, comfy, have pockets and draw string. Very long in the legs, about four inches more than expected for size ordered. If you have a 36\" inseam, these are for you.",
+      "direction": "up",
+      "strength": 0.5,
+      "date": "2022-02-28",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "Really good for mildly cold weather. 25 degrees F outside proved too cool for these in a short amount of time. Soft, fuzzy inside, silky smooth outer surface, wore very well under dress pants. Does have the expected fly opening.",
+      "direction": "up",
+      "strength": 0.5,
+      "date": "2022-02-27",
+      "citation": null
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "style_id": "HM072",
+  "category": "social",
+  "week": "2020-W31",
+  "region": "proxy_region",
+  "sales_last_4w": [
+    56,
+    46,
+    114,
+    406
+  ],
+  "weeks_of_supply": 10.5,
+  "return_rate": 0.0,
+  "open_order_units": 5934,
+  "vendor_cutoff_date": "2020-08-15",
+  "data_as_of": "2020-07-28",
+  "signals": [
+    {
+      "source_type": "amazon_review",
+      "text": "Great fitting. Comfortable and easy to travel with.",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2020-10-22",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "I love the colors... they are bright.  The waist is about an 8\" elastic band.  There is a tie for the front... or you could tie to the side.  The bottom is all different lengths, which I was hoping would be a little less uneven.  You can wear over your bust area like a dress or coverup.  There are several ways to wear as dress. I am 5'7\" and when up like a dress, it still covered my knees. I like the style, but I am an old hippie gal.  I don't love rayon, but that is mostly what you get these da",
+      "direction": "up",
+      "strength": 0.5,
+      "date": "2022-02-08",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "This is an interesting skirt.  I hate my fat knees and it covers them.  I am just a huge fan of the material.  Super wrinkly.  There are pockets.  Not sure if I will keep it.  I am 5'7\", usually wear a 14/16 or 0x/1x and the XL fits, but loosely.  I am a little worried about it slipping down after I put my cell phone in my pocket or ? I never hesitate to update my reviews should new info seem useful.",
+      "direction": "up",
+      "strength": 0.5,
+      "date": "2022-02-07",
+      "citation": null
+    }
+  ],
+  "is_core_franchise": false,
+  "extended_size_range": false,
+  "label": "retire",
+  "source_article_id": "0688105002",
+  "source_product_name": "Skirt Mini Bea",
+  "future_sales_hidden_for_labeling": [
+    167,
+    125,
+    36,
+    19,
+    21,
+    18,
+    8,
+    1
+  ],
+  "label_basis": "real H&M sales in following 8 observed weeks"
+}

@@ -1,0 +1,11 @@
+{
+  "dataset_version": "real-public-hm-amazon-derived-v1",
+  "seed": 3415,
+  "styles": 100,
+  "dev_styles": 60,
+  "holdout_styles": 40,
+  "sources": "H&M transactions and article metadata drive sales and style selection; Amazon clothing review text drives review signals; social/competitor signals are not present in the real-source build.",
+  "label_basis": "Observed H&M sales in the following 8 weeks.",
+  "amazon_reviews_used": 16892,
+  "hm_transactions_used": 6940877
+}

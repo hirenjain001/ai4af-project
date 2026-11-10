@@ -1,0 +1,21 @@
+{
+  "style_id": "S008",
+  "signals": [
+    {
+      "source_type": "review",
+      "text": "Comfortable fabric and reliable fit.",
+      "direction": "up",
+      "strength": 0.8,
+      "date": "2026-06-26",
+      "citation": null
+    },
+    {
+      "source_type": "dupe",
+      "text": "Lower-priced look-alike listings are increasing.",
+      "direction": "down",
+      "strength": 0.78,
+      "date": "2026-06-24",
+      "citation": null
+    }
+  ]
+}

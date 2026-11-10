@@ -1,0 +1,57 @@
+{
+  "style_id": "S043",
+  "category": "lounge",
+  "week": "2026-W12",
+  "region": "coastal",
+  "sales_last_4w": [
+    359,
+    382,
+    356,
+    355
+  ],
+  "weeks_of_supply": 9.5,
+  "return_rate": 0.05,
+  "open_order_units": 1070,
+  "vendor_cutoff_date": "2026-07-23",
+  "data_as_of": "2026-06-29",
+  "signals": [
+    {
+      "source_type": "review",
+      "text": "Comfortable fabric and reliable fit.",
+      "direction": "up",
+      "strength": 0.72,
+      "date": "2026-06-26",
+      "citation": null
+    },
+    {
+      "source_type": "search",
+      "text": "Search interest is rising across several regions.",
+      "direction": "up",
+      "strength": 0.84,
+      "date": "2026-06-27",
+      "citation": null
+    },
+    {
+      "source_type": "competitor",
+      "text": "Competitor launch confirms category demand.",
+      "direction": "up",
+      "strength": 0.71,
+      "date": "2026-06-25",
+      "citation": null
+    }
+  ],
+  "is_core_franchise": false,
+  "extended_size_range": true,
+  "label": "chase",
+  "future_sales_hidden_for_labeling": [
+    454,
+    436,
+    471,
+    447,
+    463,
+    469,
+    445,
+    463
+  ],
+  "archetype": "real_winner"
+}

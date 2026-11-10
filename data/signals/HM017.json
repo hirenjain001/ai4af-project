@@ -1,0 +1,29 @@
+{
+  "style_id": "HM017",
+  "signals": [
+    {
+      "source_type": "amazon_review",
+      "text": "I like it  and got it for my cross. Thanks",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2020-03-22",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "Go with everything.",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2020-02-08",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "Incredibly soft material and beautiful colors but I sized these up to an eight for my seven-year-old. The pants are way too big. If you have a skinny child don't size these up. No adjustable waist band either.",
+      "direction": "up",
+      "strength": 0.0,
+      "date": "2021-11-22",
+      "citation": null
+    }
+  ]
+}

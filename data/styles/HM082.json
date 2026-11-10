@@ -1,0 +1,59 @@
+{
+  "style_id": "HM082",
+  "category": "social",
+  "week": "2020-W31",
+  "region": "proxy_region",
+  "sales_last_4w": [
+    90,
+    77,
+    103,
+    43
+  ],
+  "weeks_of_supply": 13.2,
+  "return_rate": 0.667,
+  "open_order_units": 6481,
+  "vendor_cutoff_date": "2020-08-31",
+  "data_as_of": "2020-07-28",
+  "signals": [
+    {
+      "source_type": "amazon_review",
+      "text": "Came apart the second time worn. Charm was lost my daughter threw away.",
+      "direction": "down",
+      "strength": 1.0,
+      "date": "2020-03-05",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "Was already in a million peices when my daughter received she threw out waste and horrible craftsmanship. Still finding beads and crap all over the house. Wasn\u2019t cheap other.",
+      "direction": "down",
+      "strength": 1.0,
+      "date": "2020-03-05",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "I purchased a couple of these to use in our neighborhood yard sale.  Has pockets for a little mini note pad and pens.. ties are long enough to secure a wide size range of people.  The denim is medium color and what I would consider heavy.  I like them.  They'll be able to be used over and over again for years.  I haven't machine washed and dried yet, but it is my impression they will do as well any pair of blue jeans.",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2020-01-23",
+      "citation": null
+    }
+  ],
+  "is_core_franchise": false,
+  "extended_size_range": true,
+  "label": "hold",
+  "source_article_id": "0621381001",
+  "source_product_name": "Jade Trash HW Skinny Denim TRS",
+  "future_sales_hidden_for_labeling": [
+    27,
+    42,
+    49,
+    58,
+    54,
+    46,
+    28,
+    3
+  ],
+  "label_basis": "real H&M sales in following 8 observed weeks"
+}

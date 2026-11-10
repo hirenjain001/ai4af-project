@@ -1,0 +1,59 @@
+{
+  "style_id": "HM024",
+  "category": "social",
+  "week": "2020-W31",
+  "region": "proxy_region",
+  "sales_last_4w": [
+    62,
+    60,
+    65,
+    32
+  ],
+  "weeks_of_supply": 14.0,
+  "return_rate": 0.0,
+  "open_order_units": 5816,
+  "vendor_cutoff_date": "2020-08-02",
+  "data_as_of": "2020-07-28",
+  "signals": [
+    {
+      "source_type": "amazon_review",
+      "text": "My teenage daughter loves wearing these jogger sweatpants. They are a bit form fitting, but they are  soft and very comfortable. The medium size fits her well for the most part. She's 5'7&#34; and weighs about 145 pounds. They're cuffed at the bottom of the legs so they should work on various heights. The legs are a little slim, but not tight. They wash well. Construction is good. There are no loose threads or seams.",
+      "direction": "up",
+      "strength": 0.5,
+      "date": "2018-05-22",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "I have a few clothes from Goodthreads, and very happy with them.<br />These  jogging pants  are heavy in weight, which is nice for the winter.<br /> The inside of the pants are a soft fleece.<br />A size medium, made well, No loose threads, and are sown well.<br />Has elastic at the bottom of the legs, which will fit all leg length.<br />The waist band is thick, and stays up while jogging.<br /><br />After washing, and putting these in the dryer, there Soft, and Warm.<br />There my husbands Favo",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2018-11-24",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "Happy and whimsical\u2026 I love Alex and Ani quality and this doesn\u2019t disappoint. For those unfamiliar with the brand- these are fully enclosed adjustable bracelets made to fit all preteen/adult sizes.. Best of all- no clasps or closures!<br /><br />Usually all silver or brass gold.. I LOVE when A/A steps into color! This is a turquoise blue made of tiny cubed beads.. dainty and delicate in their sizing- it fits the brands theme by stacking. This isn\u2019t to big or a statement piece.. so it joins the r",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2021-12-15",
+      "citation": null
+    }
+  ],
+  "is_core_franchise": false,
+  "extended_size_range": false,
+  "label": "chase",
+  "source_article_id": "0536139006",
+  "source_product_name": "Alex Jogger (J)",
+  "future_sales_hidden_for_labeling": [
+    14,
+    8,
+    116,
+    179,
+    169,
+    132,
+    103,
+    14
+  ],
+  "label_basis": "real H&M sales in following 8 observed weeks"
+}

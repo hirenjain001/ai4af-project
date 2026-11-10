@@ -1,0 +1,59 @@
+{
+  "style_id": "HM012",
+  "category": "social",
+  "week": "2020-W31",
+  "region": "proxy_region",
+  "sales_last_4w": [
+    33,
+    15,
+    20,
+    13
+  ],
+  "weeks_of_supply": 3.7,
+  "return_rate": 0.0,
+  "open_order_units": 840,
+  "vendor_cutoff_date": "2020-08-23",
+  "data_as_of": "2020-07-28",
+  "signals": [
+    {
+      "source_type": "amazon_review",
+      "text": "Tights are a must in my life.  Nice and toasty.  I attribute them to keeping me alive in the winter.  Thanks.  I love \u2018em.",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2020-02-15",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "Tights",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2019-12-30",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "My 20 year old daughter wanted some tights to wear under her skirts for the cooler weather. These are pretty good. They have a decent stretch to them. She says the fit is good and as expected. They are comfortable to wear.  They do give a little more warmth than exposed legs.",
+      "direction": "up",
+      "strength": 0.5,
+      "date": "2021-11-18",
+      "citation": null
+    }
+  ],
+  "is_core_franchise": false,
+  "extended_size_range": false,
+  "label": "chase",
+  "source_article_id": "0158340001",
+  "source_product_name": "Highwaist 30 den 1p Tights",
+  "future_sales_hidden_for_labeling": [
+    11,
+    56,
+    84,
+    288,
+    338,
+    351,
+    251,
+    47
+  ],
+  "label_basis": "real H&M sales in following 8 observed weeks"
+}

@@ -1,0 +1,41 @@
+{
+  "style_id": "S069",
+  "category": "lounge",
+  "week": "2026-W12",
+  "region": "coastal",
+  "sales_last_4w": [
+    384,
+    406,
+    389,
+    371
+  ],
+  "weeks_of_supply": 9.2,
+  "return_rate": 0.22,
+  "open_order_units": 5912,
+  "vendor_cutoff_date": "2026-07-05",
+  "data_as_of": "2026-06-29",
+  "signals": [
+    {
+      "source_type": "review",
+      "text": "Seam rubs after one wash.",
+      "direction": "down",
+      "strength": 0.7,
+      "date": "2026-06-26",
+      "citation": null
+    }
+  ],
+  "is_core_franchise": true,
+  "extended_size_range": false,
+  "label": "fix",
+  "future_sales_hidden_for_labeling": [
+    352,
+    311,
+    321,
+    350,
+    309,
+    318,
+    344,
+    336
+  ],
+  "archetype": "quality_issue"
+}

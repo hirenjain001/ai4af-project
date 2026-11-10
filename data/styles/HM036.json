@@ -1,0 +1,59 @@
+{
+  "style_id": "HM036",
+  "category": "social",
+  "week": "2020-W31",
+  "region": "proxy_region",
+  "sales_last_4w": [
+    169,
+    117,
+    152,
+    72
+  ],
+  "weeks_of_supply": 9.3,
+  "return_rate": 0.0,
+  "open_order_units": 6587,
+  "vendor_cutoff_date": "2020-08-16",
+  "data_as_of": "2020-07-28",
+  "signals": [
+    {
+      "source_type": "amazon_review",
+      "text": "I wear 3XL. . .  good fit, comfortable, but for the sweatshirt, I could have also wear a 4XL. . . . just a little more room, but I like a little bigger . . . .",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2019-12-25",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "Bought these for my 3 and 6 year grandsons to wear in a neighborhood christmas parade.  They were perfect.  And the boys were perfectly warm too!  Win/Win.  Washed up nicely.  Paired with some cute elf hats and the look was complete.  Since they are 3 and 6 gramma got away with it... but I think next year the 6 year old will probably not &#34;agree&#34; to be so cute.  Hahaha",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2018-01-17",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "Very soft light sweatshirt great for cool Summer nights",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2020-07-04",
+      "citation": null
+    }
+  ],
+  "is_core_franchise": false,
+  "extended_size_range": false,
+  "label": "chase",
+  "source_article_id": "0685813001",
+  "source_product_name": "PETAR SWEATSHIRT",
+  "future_sales_hidden_for_labeling": [
+    52,
+    56,
+    126,
+    282,
+    304,
+    188,
+    163,
+    21
+  ],
+  "label_basis": "real H&M sales in following 8 observed weeks"
+}

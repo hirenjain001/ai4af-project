@@ -1,0 +1,59 @@
+{
+  "style_id": "HM047",
+  "category": "lounge",
+  "week": "2020-W31",
+  "region": "proxy_region",
+  "sales_last_4w": [
+    2,
+    2,
+    0,
+    0
+  ],
+  "weeks_of_supply": 13.9,
+  "return_rate": 0.0,
+  "open_order_units": 2973,
+  "vendor_cutoff_date": "2020-08-25",
+  "data_as_of": "2020-07-28",
+  "signals": [
+    {
+      "source_type": "amazon_review",
+      "text": "Very nice bowtie.  Great price.  Very adjustable (wide range), my son should be able to wear for quite a while. Thanks!",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2019-10-21",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "I purchased these for facial headbands and was surprised to find the bow knot was wired - but it's cute that you can alter the bow knot because they are wired.  The colors are bright - but not florescent.  Stretchy and comfortable.  I like them and would purchase them again.",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2019-07-31",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "Do like These pants from johnnny,  did wish they came in shorter length.  about  3\" to long",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2019-11-18",
+      "citation": null
+    }
+  ],
+  "is_core_franchise": false,
+  "extended_size_range": false,
+  "label": "retire",
+  "source_article_id": "0712587003",
+  "source_product_name": "Bow HW paperwaist",
+  "future_sales_hidden_for_labeling": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "label_basis": "real H&M sales in following 8 observed weeks"
+}

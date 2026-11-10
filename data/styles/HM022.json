@@ -1,0 +1,59 @@
+{
+  "style_id": "HM022",
+  "category": "social",
+  "week": "2020-W31",
+  "region": "proxy_region",
+  "sales_last_4w": [
+    28,
+    32,
+    25,
+    17
+  ],
+  "weeks_of_supply": 7.9,
+  "return_rate": 0.0,
+  "open_order_units": 6561,
+  "vendor_cutoff_date": "2020-08-23",
+  "data_as_of": "2020-07-28",
+  "signals": [
+    {
+      "source_type": "amazon_review",
+      "text": "Love the chain it works great.",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2019-01-25",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "These are nice, comfy, have pockets and draw string. Very long in the legs, about four inches more than expected for size ordered. If you have a 36\" inseam, these are for you.",
+      "direction": "up",
+      "strength": 0.5,
+      "date": "2022-02-28",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "Really good for mildly cold weather. 25 degrees F outside proved too cool for these in a short amount of time. Soft, fuzzy inside, silky smooth outer surface, wore very well under dress pants. Does have the expected fly opening.",
+      "direction": "up",
+      "strength": 0.5,
+      "date": "2022-02-27",
+      "citation": null
+    }
+  ],
+  "is_core_franchise": false,
+  "extended_size_range": true,
+  "label": "hold",
+  "source_article_id": "0179123001",
+  "source_product_name": "Long Leggings",
+  "future_sales_hidden_for_labeling": [
+    18,
+    7,
+    14,
+    14,
+    29,
+    17,
+    8,
+    1
+  ],
+  "label_basis": "real H&M sales in following 8 observed weeks"
+}

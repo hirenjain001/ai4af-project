@@ -1,0 +1,59 @@
+{
+  "style_id": "HM076",
+  "category": "social",
+  "week": "2020-W31",
+  "region": "proxy_region",
+  "sales_last_4w": [
+    114,
+    89,
+    35,
+    30
+  ],
+  "weeks_of_supply": 5.1,
+  "return_rate": 0.0,
+  "open_order_units": 4759,
+  "vendor_cutoff_date": "2020-08-19",
+  "data_as_of": "2020-07-28",
+  "signals": [
+    {
+      "source_type": "amazon_review",
+      "text": "Great sweater. Very stylish.",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2020-12-02",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "This was a silly gift for my grandmother, who is generally regarded as the &#34;Queen&#34; of her retirement community. They got the biggest kick out of the crown and sceptre as they added a regal touch",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2018-12-11",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "Ok, sweater.  Not crazy about the overall fit. Little baggy at the bottom, would have preferred it a little longer and better fitted. Material is soft and well made, just not my style in the fit as I prefer a sweater that goes down lower in the back (does not cover butt).",
+      "direction": "up",
+      "strength": 0.5,
+      "date": "2018-11-07",
+      "citation": null
+    }
+  ],
+  "is_core_franchise": false,
+  "extended_size_range": true,
+  "label": "chase",
+  "source_article_id": "0677930023",
+  "source_product_name": "Queen Sweater",
+  "future_sales_hidden_for_labeling": [
+    19,
+    21,
+    106,
+    248,
+    263,
+    164,
+    132,
+    19
+  ],
+  "label_basis": "real H&M sales in following 8 observed weeks"
+}

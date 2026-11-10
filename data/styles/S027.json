@@ -1,0 +1,49 @@
+{
+  "style_id": "S027",
+  "category": "lounge",
+  "week": "2026-W12",
+  "region": "coastal",
+  "sales_last_4w": [
+    327,
+    332,
+    341,
+    379
+  ],
+  "weeks_of_supply": 5.9,
+  "return_rate": 0.14,
+  "open_order_units": 2363,
+  "vendor_cutoff_date": "2026-07-03",
+  "data_as_of": "2026-06-29",
+  "signals": [
+    {
+      "source_type": "review",
+      "text": "Comfortable fabric and reliable fit.",
+      "direction": "up",
+      "strength": 0.82,
+      "date": "2026-06-26",
+      "citation": null
+    },
+    {
+      "source_type": "dupe",
+      "text": "Lower-priced look-alike listings are increasing.",
+      "direction": "down",
+      "strength": 0.78,
+      "date": "2026-06-24",
+      "citation": null
+    }
+  ],
+  "is_core_franchise": false,
+  "extended_size_range": false,
+  "label": "cut_reorder",
+  "future_sales_hidden_for_labeling": [
+    274,
+    256,
+    280,
+    290,
+    252,
+    264,
+    253,
+    287
+  ],
+  "archetype": "fading_franchise"
+}

@@ -1,0 +1,21 @@
+{
+  "style_id": "S053",
+  "signals": [
+    {
+      "source_type": "review",
+      "text": "Comfortable fabric and reliable fit.",
+      "direction": "up",
+      "strength": 0.85,
+      "date": "2026-06-26",
+      "citation": null
+    },
+    {
+      "source_type": "social",
+      "text": "Single-creator spike in short-form video mentions.",
+      "direction": "up",
+      "strength": 0.92,
+      "date": "2026-06-28",
+      "citation": null
+    }
+  ]
+}

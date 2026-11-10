@@ -1,0 +1,43 @@
+{
+  "style_id": "HM038",
+  "category": "social",
+  "week": "2020-W31",
+  "region": "proxy_region",
+  "sales_last_4w": [
+    32,
+    29,
+    15,
+    17
+  ],
+  "weeks_of_supply": 11.9,
+  "return_rate": 0.0,
+  "open_order_units": 4206,
+  "vendor_cutoff_date": "2020-08-03",
+  "data_as_of": "2020-07-28",
+  "signals": [
+    {
+      "source_type": "amazon_review",
+      "text": "Do like These pants from johnnny,  did wish they came in shorter length.  about  3\" to long",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2019-11-18",
+      "citation": null
+    }
+  ],
+  "is_core_franchise": false,
+  "extended_size_range": false,
+  "label": "retire",
+  "source_article_id": "0656763001",
+  "source_product_name": "Kajsa HW",
+  "future_sales_hidden_for_labeling": [
+    15,
+    1,
+    3,
+    0,
+    1,
+    0,
+    1,
+    0
+  ],
+  "label_basis": "real H&M sales in following 8 observed weeks"
+}

@@ -1,0 +1,29 @@
+{
+  "dataset_version": "public-sample-2026-11-10",
+  "sources": [
+    {
+      "name": "H&M Personalized Fashion Recommendations",
+      "url": "https://huggingface.co/datasets/einrafh/hnm-fashion-recommendations-data",
+      "files": [
+        "hm_articles.csv",
+        "hm_transactions_sample.csv",
+        "hm_transactions_lounge_social_sample.csv"
+      ],
+      "note": "bounded local sample; transaction file is not the full 3.5 GB corpus"
+    },
+    {
+      "name": "Amazon Reviews 2023 Clothing, Shoes & Jewelry",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023",
+      "files": [
+        "amazon_clothing_reviews_sample.jsonl"
+      ],
+      "note": "bounded local sample from the public category JSONL; not the full 27.8 GB corpus"
+    }
+  ],
+  "sample_counts": {
+    "hm_transactions_rows": 95524,
+    "hm_relevant_transactions_rows": 22278,
+    "amazon_review_rows": 16893
+  },
+  "downloaded_at": "2026-11-10"
+}

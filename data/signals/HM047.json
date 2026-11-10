@@ -1,0 +1,29 @@
+{
+  "style_id": "HM047",
+  "signals": [
+    {
+      "source_type": "amazon_review",
+      "text": "Very nice bowtie.  Great price.  Very adjustable (wide range), my son should be able to wear for quite a while. Thanks!",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2019-10-21",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "I purchased these for facial headbands and was surprised to find the bow knot was wired - but it's cute that you can alter the bow knot because they are wired.  The colors are bright - but not florescent.  Stretchy and comfortable.  I like them and would purchase them again.",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2019-07-31",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "Do like These pants from johnnny,  did wish they came in shorter length.  about  3\" to long",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2019-11-18",
+      "citation": null
+    }
+  ]
+}

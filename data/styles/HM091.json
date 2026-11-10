@@ -1,0 +1,59 @@
+{
+  "style_id": "HM091",
+  "category": "lounge",
+  "week": "2020-W31",
+  "region": "proxy_region",
+  "sales_last_4w": [
+    10,
+    8,
+    4,
+    4
+  ],
+  "weeks_of_supply": 12.9,
+  "return_rate": 0.0,
+  "open_order_units": 6792,
+  "vendor_cutoff_date": "2020-08-24",
+  "data_as_of": "2020-07-28",
+  "signals": [
+    {
+      "source_type": "amazon_review",
+      "text": "I like it  and got it for my cross. Thanks",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2020-03-22",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "Go with everything.",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2020-02-08",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "Incredibly soft material and beautiful colors but I sized these up to an eight for my seven-year-old. The pants are way too big. If you have a skinny child don't size these up. No adjustable waist band either.",
+      "direction": "up",
+      "strength": 0.0,
+      "date": "2021-11-22",
+      "citation": null
+    }
+  ],
+  "is_core_franchise": false,
+  "extended_size_range": true,
+  "label": "cut_reorder",
+  "source_article_id": "0658030001",
+  "source_product_name": "Push Up Jegging L.W",
+  "future_sales_hidden_for_labeling": [
+    2,
+    1,
+    1,
+    3,
+    3,
+    4,
+    5,
+    0
+  ],
+  "label_basis": "real H&M sales in following 8 observed weeks"
+}

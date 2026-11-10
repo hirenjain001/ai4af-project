@@ -1,0 +1,59 @@
+{
+  "style_id": "HM055",
+  "category": "lounge",
+  "week": "2020-W31",
+  "region": "proxy_region",
+  "sales_last_4w": [
+    24,
+    22,
+    22,
+    13
+  ],
+  "weeks_of_supply": 4.0,
+  "return_rate": 0.333,
+  "open_order_units": 1115,
+  "vendor_cutoff_date": "2020-08-20",
+  "data_as_of": "2020-07-28",
+  "signals": [
+    {
+      "source_type": "amazon_review",
+      "text": "Finally. Socks that fit my dad's extremely swollen feet from a medical issue. He can now have comfortable socks to lounge in. Well worth the price since we literally can't find this size anywhere else. Thank you!!!",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2023-02-17",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "This mask is VERY LARGE! I bought this for my son, and it was too big. It was almost to big for my boyfriend. Not a good fit for a child.",
+      "direction": "down",
+      "strength": 0.5,
+      "date": "2015-04-06",
+      "citation": null
+    },
+    {
+      "source_type": "amazon_review",
+      "text": "Classy blouse at a low price!",
+      "direction": "up",
+      "strength": 1.0,
+      "date": "2021-08-05",
+      "citation": null
+    }
+  ],
+  "is_core_franchise": false,
+  "extended_size_range": true,
+  "label": "hold",
+  "source_article_id": "0714790003",
+  "source_product_name": "Mom Fit Ultra HW",
+  "future_sales_hidden_for_labeling": [
+    11,
+    6,
+    17,
+    16,
+    7,
+    9,
+    10,
+    1
+  ],
+  "label_basis": "real H&M sales in following 8 observed weeks"
+}
