@@ -1,3 +1,17 @@
 .vscode
 .DS_Store
 .venv
+.env
+.pytest_cache
+__pycache__
+*.py[cod]
+
+# Local runtime and generated artifacts
+.streamlit/
+data/audit.jsonl
+data/rag/chroma/
+*.parquet
+
+# Test and coverage output
+.coverage
+htmlcov/
